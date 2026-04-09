@@ -57,19 +57,19 @@ Posterior distribution density plots
 
 ## Example Results
 ### Frequentist Results:
-   • Conversion A: 0.0998
-   • Conversion B: 0.1203
-   • Uplift: 20.54%
-   • P-value (z-test): 0.0000     ← Highly significant
-   • Post-hoc Power: 0.9998
+- **Conversion A**: 0.0998
+- **Conversion B**: 0.1203
+- **Uplift**: 20.54%
+- **P-value (z-test)**: 0.0000 ← Highly significant
+- **Post-hoc Power**: 0.9998
 
 ### Bayesian Results:
-   • Mean Conversion A: 0.1000
-   • Mean Conversion B: 0.1202
-   • Uplift (Bayes): 20.20%
-   • P(B better than A): 1.0000   ← Decisive evidence
-   • 95% CrI A: [0.0943, 0.1058]
-   • 95% CrI B: [0.1139, 0.1266]
+- **Mean Conversion A**: 0.1000
+- **Mean Conversion B**: 0.1202
+- **Uplift (Bayes)**: 20.20%
+- **P(B better than A)**: 1.0000 ← Decisive evidence
+- **95% CrI A**: [0.0943, 0.1058]
+- **95% CrI B**: [0.1139, 0.1266]
 
 Plots are saved in the figures/ folder at high resolution (300 DPI).
 
