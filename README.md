@@ -33,19 +33,6 @@ python main.py
 ```
 Output: Console summary + data/ and figures/ folders with all results and plots.
 
-## Project Structure
-textab-testing-showcase/
-├── README.md
-├── LICENSE
-├── requirements.txt
-├── main.py
-└── ab_testing/
-    ├── __init__.py
-    ├── data_generator.py
-    ├── frequentist.py
-    ├── bayesian.py
-    └── visualization.py
-
 ## Methodology
 ### Data Generation
 Control (A): 10% baseline conversion rate
